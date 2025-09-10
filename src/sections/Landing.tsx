@@ -22,13 +22,13 @@ export default function Landing() {
 
       <div className="mt-4 flex flex-wrap justify-center gap-4 text-sm font-medium">
         <a
-          href="mailto:you@example.com"
+          href="mailto:hassan.q.rizwan@gmail.com"
           className="flex items-center gap-2 rounded-full border border-neutral-300 px-4 py-2 hover:bg-neutral-100 dark:border-neutral-700 dark:hover:bg-neutral-900"
         >
           <Mail size={18} /> Email
         </a>
         <a
-          href="https://www.linkedin.com/in/your-linkedin"
+          href="https://www.linkedin.com/in/hassan-rizwan3/"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 rounded-full border border-neutral-300 px-4 py-2 hover:bg-neutral-100 dark:border-neutral-700 dark:hover:bg-neutral-900"
@@ -36,7 +36,7 @@ export default function Landing() {
           <Linkedin size={18} /> LinkedIn
         </a>
         <a
-          href="https://github.com/yourusername"
+          href="https://github.com/hrizwan3"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 rounded-full border border-neutral-300 px-4 py-2 hover:bg-neutral-100 dark:border-neutral-700 dark:hover:bg-neutral-900"
