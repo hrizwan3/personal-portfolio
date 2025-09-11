@@ -7,7 +7,9 @@ export const PROJECTS: ProjectItem[] = [
     blurb:
       "Senior design project built in a team of five: a remote physical therapy platform to support patients recovering from knee surgery. The system integrates a wearable IMU-based device for motion tracking, an iOS app (developed in Swift) for guided exercises, and a secure therapist dashboard for monitoring. Cloud-backed storage and real-time visualization enable feedback loops that improve patient engagement, compliance, and post-surgery outcomes.",
     stack: ["Swift", "C++", "iOS", "Cloud", "IMU Sensors"],
-    links: [],
+    links: [
+      { label: "GitHub", href: "https://github.com/peterbpro/Motion-Mend-SeniorDesign" }
+    ],
   },
   {
     name: "PennCloud",
